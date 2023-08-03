@@ -13,7 +13,3 @@
 - 📫 How to reach me **nakulprasad10@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YZhTFeZnAUAiLJJgcfP-z3R_SEQrVHuR/view?usp=sharing](https://drive.google.com/file/d/1YZhTFeZnAUAiLJJgcfP-z3R_SEQrVHuR/view?usp=sharing)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakulprasad&show_icons=true&locale=en" alt="nakulprasad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakulprasad&" alt="nakulprasad" /></p>
